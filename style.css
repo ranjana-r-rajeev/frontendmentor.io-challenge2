@@ -1,0 +1,133 @@
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    background-color: hsl(36, 100%, 99%);
+    font-family: 'Inter';
+}
+.container{
+    padding: 60px 179px;
+}
+.main1{
+    display: flex;
+    color: hsl(240, 100%, 5%);
+    text-align: center;
+    font-family: 'Inter';
+    padding-bottom: 10px;
+}
+.w{
+    /* padding-right: 20px; */
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bolder;
+    font-size: 60px;
+    padding-bottom: 20px;
+}
+.bar{
+    padding-left: 545px;
+}
+.navbar a {
+    text-decoration: none;
+    float: left;
+    padding: 25px;
+    color: hsl(240, 100%, 5%);
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Inter';
+}
+/* img {
+    width: 740px;
+    height: 375px;
+} */
+.bold{
+    font-size: 55px;
+    padding-top: 20px;
+    padding-right: 20px;
+    font-weight: 900;
+    line-height: 1;
+}
+.bnext{
+    padding-top: 20px;
+    padding-left: 60px;
+    color: hsla(236, 13%, 42%, 0.901);
+    line-height: 1.5;
+}
+.color{
+    background-color: hsl(5, 85%, 63%);
+    padding: 10px 10px 10px 10px;
+    color: hsl(36, 100%, 99%);
+    letter-spacing: 2px;
+    width: 50%;
+    text-align: center;
+    margin-top: 40px;
+}
+.blackbox{
+    background-color: black;
+}
+.line0{
+    color: hsl(35, 77%, 62%);
+    font-weight: bolder;
+    font-size: 40px;
+    padding: 20px 20px 10px 25px;
+}
+.line1{
+    color: hsl(36, 100%, 99%);
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-top: 20px;
+    padding-right: 25px;
+    font-weight: bold;
+    font-size: large;
+}
+.line2{
+    color: hsl(236, 13%, 42%);
+    padding-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.line3{
+    color: hsl(236, 13%, 42%);
+    padding-bottom: 40px;
+    padding-left: 25px;
+    padding-right: 25px;  
+}
+hr{
+    border-width: 0.1px;
+    margin: 20px;
+}
+.main2{
+    display: flex;
+    margin-bottom: 50px;
+}
+.flexbox1{
+    display: flex;
+}
+.innerclass{
+    margin-right: 30px;
+}
+.main3{
+    display: flex;
+    padding-top: 30px;
+}
+h1{
+    padding: 0;
+    margin: 0 0 -9px 0;
+    color: hsl(233, 8%, 79%);
+    letter-spacing: 3px;
+}
+.elements{
+    margin: 0 0px 0 0;
+    padding: 0px 0px 0px 20px;
+    color: hsl(236, 13%, 42%);
+}
+h3{
+    padding: 0 0 20px 0;
+    margin: 0;
+    font-weight: 900;
+    font-size: 15px;
+    color: black;
+}
+.block{
+    display: flex;
+    margin-right: 30px;
+}
